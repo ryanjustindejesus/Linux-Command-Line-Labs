@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-
+In this lab, I learned how to install and uninstall applications in Linux using commands in the Bash shell. I worked with the Advanced Package Tool (APT) package manager to install and uninstall the Suricata and tcpdump applications.
 <br />
 
 
