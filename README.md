@@ -19,7 +19,7 @@
 
 - <b>Qwiklabs</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Lab walk-through:</h2>
 
 <p align="center">
 I used the command "apt" to confirm apt is installed in bash: <br/>
