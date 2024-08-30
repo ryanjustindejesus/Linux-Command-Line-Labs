@@ -1,4 +1,4 @@
-<h1>Linux Command Line Labs</h1>
+<h1>Installing software in a Linux Distribution</h1>
 
 
 
@@ -13,42 +13,36 @@
 - <b>Install Suricata with APT</b>
 - <b>Uninstall Suricata with APT</b> 
 - <b>Install tcpdump with APT</b>
-- <b>Reinstall Suricata with APT</b> 
+- <b>List all installed applications</b> 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Qwiklabs</b> 
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Confirm APT is installed in Bash: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+I used the command "apt" to confirm apt is installed in bash: <br/>
+<img src="https://i.imgur.com/EJoj96g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+I used the command "sudo apt install suricata" to install suricata with apt:  <br/>
+<img src="https://imgur.com/Vpo0tjS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+I used the command "sudo apt remove suricata" to uninstall suricata with apt: <br/>
+<img src="https://imgur.com/keopNUf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+I used the command "sudo apt install tcpdump" to install tcpdump with apt:  <br/>
+<img src="https://imgur.com/BjIHX00.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+I used the command "apt list --installed" to list all installed applications:  <br/>
+<img src="https://imgur.com/LQUVeyX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 
 <!--
  ```diff
