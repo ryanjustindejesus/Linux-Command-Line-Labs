@@ -9,11 +9,11 @@ In this lab, I learned how to install and uninstall applications in Linux using 
 
 <h2>Completed Tasks in this Lab</h2>
 
-- <b>Confirm APT is installed in Bash</b> 
-- <b>Install Suricata with APT</b>
-- <b>Uninstall Suricata with APT</b> 
-- <b>Install tcpdump with APT</b>
-- <b>List all installed applications</b> 
+- <b>Confirming APT is installed in Bash</b> 
+- <b>Installing Suricata with APT</b>
+- <b>Uninstalling Suricata with APT</b> 
+- <b>Installing tcpdump with APT</b>
+- <b>Listing all installed applications</b> 
 
 <h2>Environments Used </h2>
 
