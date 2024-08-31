@@ -7,9 +7,9 @@ In this lab, I learned how to install and uninstall applications in Linux using 
 <br />
 
 
-<h2>Completed Tasks in this Lab</h2>
+<h2>Practical experience gained in this Lab</h2>
 
-- <b>Confirming APT is installed in Bash</b> 
+- <b>Installing applications</b> 
 - <b>Installing Suricata with APT</b>
 - <b>Uninstalling Suricata with APT</b> 
 - <b>Installing tcpdump with APT</b>
