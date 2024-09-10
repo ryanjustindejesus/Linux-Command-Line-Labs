@@ -21,7 +21,7 @@ In this lab, I learned how to install and uninstall applications in Linux using 
 
 <h2>Lab walk-through:</h2>
  <h2>Task 1: Ensure that APT is installed </h2>
- First, I checked that the APT application is installed so that I can use it to manage applications. 
+ I checked that the APT application is installed so that I can use it to manage applications. 
  <br /> <br />
 (1) I used the command "apt" to confirm apt is installed in bash. 
 <br/> <br /> <p align="center">
