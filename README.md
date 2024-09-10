@@ -55,7 +55,7 @@ In this task, I installed the tcpdump application. This is a command-line tool t
   <h2>Task 5: List the installed applications</h2>
 In this task, I confirmed that I have installed the required applications. 
 <br /> <br />
-(5) I used the command "apt list --installed" to list all installed applications.  
+(1) I used the command "apt list --installed" to list all installed applications.  
 <br /> <br /> <p align="center">
 <img src="https://imgur.com/LQUVeyX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> <br />
