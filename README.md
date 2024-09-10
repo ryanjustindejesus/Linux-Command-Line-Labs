@@ -32,7 +32,7 @@ In this lab, I learned how to install and uninstall applications in Linux using 
 In this task, I installed Suricata, a network analysis tool used for intrusion detection, and verify that Suricata installed correctly.
  <br /> <br />
 Sudo temporarily grants elevated permissions to specific users; users must be in a sudoers file to use have access to sudo.  <br /> <br />
-(2) I used the command "sudo apt install suricata" to install suricata with apt. <br/> <br/>
+(2) I used the command "sudo apt install suricata" to install suricata with apt.
 <br/> <br/> <p align="center">
 <img src="https://imgur.com/Vpo0tjS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> <br />v
